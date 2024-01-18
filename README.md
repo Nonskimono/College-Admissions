@@ -1,7 +1,7 @@
 <h1>Chukwunonso - Problem Solving Analysis and Prediction</h1>
 
 <h2>Description</h2>
-Project consists of a simple R script that walks the user through how I was able to solve a prediction issue encountered by Ivywood University. Below shows the powerpoint explanations of the analysis for proper context with the R script in the following folder. 
+Project consists of a simple R script that walks the user through how I was able to solve a prediction issue encountered by Ivywood University. Below shows the powerpoint explanations of the analysis for proper context with the R script in the following file. 
 <br />
 
 
